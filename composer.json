@@ -20,6 +20,6 @@
     },
 
     "extra": {
-        "class": "Pro\\Composer\\SwDependencySolver\\Plugin"
+        "class": "Pro\\Composer\\DependencyIgnore\\Plugin"
     }
 }
