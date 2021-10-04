@@ -1,0 +1,7 @@
+parameters:
+    bootstrapFiles:
+        - ../../../vendor/autoload.php
+    scanDirectories:
+        - ../../../src/
+    level: 6
+    ignoreErrors:
